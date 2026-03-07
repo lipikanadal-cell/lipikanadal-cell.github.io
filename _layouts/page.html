@@ -1,0 +1,64 @@
+---
+layout: default
+---
+
+<div class="post-shell">
+  {% if page.is_resume %}
+    <div id="resume-container" class="resume-viewer">
+      <div class="resume-controls">
+        <h1>{{ page.title }}</h1>
+        <a href="{{ site.resume_file | default: '/assets/resume/resume.pdf' }}" class="btn btn-outline-primary" download>
+          <i class="fas fa-download"></i> Download Resume
+        </a>
+      </div>
+      
+      <div class="pdf-embed">
+        <embed 
+          src="{{ site.resume_file | default: '/assets/resume/resume.pdf' }}" 
+          type="application/pdf" 
+          width="100%" 
+          height="800px">
+      </div>
+    </div>
+  {% else %}
+    {{ content }}
+  {% endif %}
+</div>
+
+<style>
+.resume-viewer {
+  margin: 2rem 0;
+}
+
+.resume-controls {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.resume-controls h1 {
+  margin: 0;
+}
+
+.pdf-embed {
+  border: 1px solid var(--border-color);
+  border-radius: 0.5rem;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+@media (max-width: 768px) {
+  .resume-controls {
+    flex-direction: column;
+    gap: 1rem;
+    align-items: flex-start;
+  }
+
+  .pdf-embed embed {
+    height: 600px !important;
+  }
+}
+</style>

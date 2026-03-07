@@ -1,0 +1,288 @@
+---
+title: MoonRay Developer Guide Writing Sample
+date: 2026-03-07 12:00:00 -0500
+categories: [API, MoonRay]
+tags: [moonray, api, developer, documentation]
+author: lipika
+---
+
+= MoonRay Developer Guide
+:toc:
+:toclevels: 2
+
+== MoonRay Overview
+
+MoonRay is a photo application that gives users complete control over their images. It works across major social media platforms including Instagram, Facebook, TikTok, Twitter, and Tinder.
+
+MoonRay images are 100% JPEG compliant and protected by two-way encryption. These images temporarily reside on secure cloud storage platforms and are permanently deleted once they expire or are removed by the user.
+
+Each image is individually encrypted and automatically removed from servers when it expires or is deleted.
+
+== Chapter 1: Features
+
+=== 1. Image Tracer
+
+* MoonRay can trace images to monitor engagement and detailed statistics.
+* It provides notifications showing which photos are popular and how many people are viewing them.
+
+=== 2. Image Timer
+
+* MoonRay allows users to set image timers, expiration dates, and restrictions.
+* It adds image limiters based on:
+** time
+** location
+** number of views
+** number of shares
+** specific social media platforms
+** particular users
+* Images can also be password protected.
+
+=== 3. Image Killswitch
+
+* MoonRay allows users to delete:
+** a single image
+** a group of images
+** all posted images at once.
+
+== Chapter 2: Use Cases
+
+This section lists relevant use cases for MoonRay. Corresponding API calls for each use case can be found in Chapter 3: API References.
+
+=== 1. Image Tracer
+
+Bruce Wayne is an aspiring photographer who recently traveled to Hawaii. He posted photos from his trip on social media platforms such as Facebook and Instagram.
+
+Bruce wants to know:
+
+* who viewed his photos
+* whether the images were reposted
+* which photos receive the most engagement
+
+These statistics help him curate his professional photography portfolio.
+
+==== Function Tree
+
+. User posts photos on social media accounts.
+. User traces statistics related to viewership and shares.
+. User receives notifications when there are reposts or saves.
+
+API Usage: See *Image Tracer* in Chapter 4.
+
+=== 2. Image Timer
+
+Peter Parker works with sensitive information and occasionally shares images of advanced equipment that must remain confidential.
+
+With MoonRay, Peter can set timers so the images disappear after a certain amount of time or number of views.
+
+==== Function Tree
+
+. User sets controls on an image.
+. User applies image limiters based on:
+* time
+* location
+* number of views
+* number of shares
+* specific social media platforms
+* particular users
+
+API Usage: See *Image Timer* in Chapter 4.
+
+=== 3. Image Killswitch
+
+Tony Stark posted strongly opinionated images while he was a graduate student. Over time, his opinions changed and he no longer supports the views expressed in those images.
+
+These images were widely reposted across social media. Instead of trying to manually remove them everywhere, Tony uses MoonRay's killswitch feature.
+
+MoonRay allows him to remove all copies of the images across platforms.
+
+==== Function Tree
+
+. User enables MoonRay protection on images.
+. User deletes a single image or a group of images instantly.
+
+API Usage: See *Image Killswitch* in Chapter 4.
+
+== Chapter 3: API Documentation
+
+=== 1. API Overview
+
+To sign up for a developer account, contact:
+
+integration@imagination.com
+
+You will receive an API key that allows you to start making API requests.
+
+* Read the documentation
+* Start making requests at:
+
+https://box.imagination.pics
+
+=== 2. Basic API Principles
+
+* Standard HTTP verbs are used such as `GET` and `POST`
+* Standard HTTP error responses describe errors
+* All responses are returned in JSON
+* All communications must use SSL (`https`)
+
+=== 3. Response Codes
+
+[cols="1,3"]
+|===
+|Code |Meaning
+
+|200
+|Success
+
+|204
+|No content
+
+|400
+|Bad request
+
+|401
+|Unauthorized
+
+|404
+|Not found
+
+|500
+|Internal server error
+|===
+
+=== 4. Parameters
+
+* `maxDuration` — Maximum duration of the Review Huffer in seconds.
+* `startDelay` — Delay before creating the Review Huffer. Default is `0`.
+* `sessionId` — Playback session ID created by the SAP Player.
+* `deviceId` — Device identifier provisioned in the Back Office.
+
+NOTE: `startDelay` is optional and only required if delayed creation is supported by the platform.
+
+== Chapter 4: API References
+
+== 1. Image Tracer API
+
+=== Request
+
+[source,json]
+----
+{
+  "method": "PASCreateTracerHuffer",
+  "id": 50001,
+  "jsonrpc": "2.0",
+  "params": {
+    "ver": "1.0",
+    "sessionId": 1,
+    "deviceId": "ipad59594",
+    "windowType": "streamin",
+    "maxDuration": 10800,
+    "startDelay": 10
+  }
+}
+----
+
+=== Response
+
+[source,json]
+----
+{
+  "id": 50001,
+  "jsonrpc": "2.0",
+  "result": {
+    "streamingUrl": "http://147.15468.24.1254654:8080/vldm/tuner/ocap_locator_f=0x1701e480.0xce.m=0x10.m3u8",
+    "sessionId": 1
+  }
+}
+----
+
+== 2. Image Timer API
+
+=== Request
+
+[source,json]
+----
+{
+  "method": "PASCreateTimerHuffer",
+  "id": 50001,
+  "jsonrpc": "2.0",
+  "params": {
+    "ver": "1.0",
+    "sessionId": 1,
+    "deviceId": "ipad595wef93",
+    "windowType": "streamout",
+    "maxDuration": 10800,
+    "startDelay": 10
+  }
+}
+----
+
+=== Response
+
+[source,json]
+----
+{
+  "id": 50001,
+  "jsonrpc": "2.0",
+  "result": {
+    "streamingUrl": "http://147.15468.24.1254654:8080/vldms/tuner/ocap_locator_f=0x1701e480.0xce.m=0x10.m3u8",
+    "sessionId": 1
+  }
+}
+----
+
+== 3. Image Killswitch API
+
+=== Request
+
+[source,json]
+----
+{
+  "method": "CheepKapHuffer",
+  "id": 50001,
+  "jsonrpc": "2.0",
+  "params": {
+    "ver": "1.0",
+    "sessionId": 1,
+    "deviceId": "ipad59593",
+    "windowType": "streamout",
+    "maxDuration": 10800,
+    "startDelay": 10
+  }
+}
+----
+
+=== Response
+
+[source,json]
+----
+{
+  "id": 50001,
+  "jsonrpc": "2.0",
+  "result": {
+    "streamingUrl": "http://147.15468.24.1254654:8080/vldms/tuner/ocap_locator_f=0x1701e480.0xce.m=0x10.m3u8",
+    "sessionId": 1
+  }
+}
+
+----
+== Chapter 5: Glossary
+
+
+[cols="1,3"]
+|===
+|Abbreviation |Meaning
+|API |Application Programming Interface
+
+|AVSL |Audio-Video Services Layer
+
+|CA |Conditional Access
+
+|CC |Close Captioning
+
+|CGP |Comcast Guide Proxy
+
+|COD |Content On Demand
+
+|CPE |Consumer Premises Equipment
+
+|DLNA |Digital Living Network Alliance

@@ -12,3 +12,9 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
 end
 
 gem "wdm", "~> 0.2.0", :platforms => [:mingw, :x64_mingw, :mswin]
+
+group :jekyll_plugins do
+  gem 'asciidoctor', '~> 2.0'
+  gem 'jekyll-asciidoc', '>= 3.0.0'
+  gem 'jekyll-scholar', '~> 7.1'
+end

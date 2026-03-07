@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Lipika Kankaria,PhD # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Technical Writer and Editor # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -28,14 +28,14 @@ url: ""
 github:
   username: github_username # change to your GitHub username
 
-twitter:
-  username: twitter_username # change to your Twitter username
+linkedin:
+  username: lipika_kankaria # change to your LinkedIn username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Lipika Kankaria
+  email: Lipikakankaria@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
@@ -224,3 +224,14 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+# Jekyll Scholar configuration
+scholar:
+  style: apa
+  locale: en
+  source: _bibliography
+  bibliography: papers.bib
+  sort_by: year,title
+  order: descending
+  group_by: year
+  group_order: descending
