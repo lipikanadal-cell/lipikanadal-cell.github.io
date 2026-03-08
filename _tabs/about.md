@@ -8,7 +8,7 @@ order: 1
   <img src="assets/images/yosemite.jpeg" alt="Profile photo" class="profile-photo" />
 </div>
 
-A technical writer and editor with a PhD in English, and hands-on experience in creating, editing developer and user-facing documentation. Adept at producing concise, user-centered content using UX design principles.
+A technical writer and editor with a PhD in English and practical experience creating, editing, and structuring developer and end-user documentation. Specializes in transforming complex technical information into clear, concise, and user-focused content. Applies UX writing and content design principles to ensure documentation is intuitive, well-organized, and accessible to both technical and non-technical audiences.
 
 <style>
 .profile-photo-container {
