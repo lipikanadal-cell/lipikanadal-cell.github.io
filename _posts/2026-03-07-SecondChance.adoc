@@ -1,0 +1,197 @@
+= Second Chance 
+Proposal for Educational Module: Professional Writing Skills
+
+== Problem Statement
+
+According to the National Former Prison Survey (2018), a quarter of individuals who were
+formerly incarcerated do not possess a basic high school diploma or GED. Furthermore, one-third
+(33%) achieved a GED as their highest level of education rather than a traditional high school
+diploma. While the mainstream education system offers a variety of subjects and vocational
+training, prison education programs generally tend to focus on basic literacy with scarce
+resources. This highlights the educational gap between prisoners and the general
+population, and this arises due to a combination of factors such as resource limitations,
+systemic issues, and social disparity.
+
+People in minimum security facilities face major barriers to employment which hinder their
+chances of harmonious reintegration into society. Many individuals have access to limited
+resources which makes them underprepared for the ever-changing job scenario. A lack of
+essential communication skills—such as language use, vocabulary, and grammar—can hinder their
+ability to create resumes, apply for jobs, and communicate effectively in a workplace setting.
+
+Writing is one of the basic skills that is required for effective communication. It proves to be
+a tool not just in securing jobs but also in executing them. Further, it is critical for adapting
+to life outside prison. The proposed professional writing module will allow individuals to
+enhance the skills necessary to express themselves clearly, thus increasing their chances of
+successful rehabilitation.
+
+== Overview of Proposed Educational Module
+
+Despite the critical role that efficient writing plays in professional success, many people
+still struggle with it. In today’s dynamic world, strong writing skills are essential for success
+in any career. The proposed 10-week module aims to sharpen writing skills needed to produce
+clear and concise documents.
+
+This module aims to identify the gap in the participants’ writing abilities and help them
+prepare for future careers by providing practical writing experience and fostering critical
+thinking.
+
+The module is designed keeping in mind the practical application of learning material which the
+participants can use after their reintegration. It aims to develop certain critical skills such
+as the ability to find information, scan for relevant material, and assess the validity of
+content as well as how to respond to job ads.
+
+By focusing on practical writing exercises and projects, this module will address the specific
+needs of the participants, making it relevant and impactful.
+
+== Curriculum
+
+The module will begin with a survey to assess participants’ present level of skills. This will
+also help the facilitator understand the specific areas that the participants need more
+attention.
+
+Following this, the first two weeks will focus on the basics of written communication. This will
+be an interactive session where participants are expected to engage, and an overview of
+different writing styles and formats will be introduced.
+
+After these two weeks, the participants will begin working on creating professional documents
+such as resumes and cover letters. This will be focused on curating resumes for targeted job
+ads. This will emphasize understanding the audience and adjusting the tone of the response.
+
+In the following week, participants will be introduced to report writing. This will help them
+structure content for documents and other updates. They will also be introduced to methods of
+data presentation and analysis.
+
+Toward the end of the module, one week will be dedicated to the nuances of technical
+documentation and how to design and write them. This will be focused on presenting information
+for all levels of readers. This will be a group task and there will be a presentation based on
+this. This will also give participants exposure to public speaking and structuring information
+in a coherent way.
+
+This module will conclude with a real-life job application process where the facilitator will
+workshop with the participants and focus on individual feedback. The module includes two guest
+speakers during the last week who will share their experiences and conduct a workshop with the
+participants.
+
+== Course Learning Goals
+
+* Using the conventions of proper grammar when writing documents
+* Applying principles of rhetoric in their writing to persuade their audience
+* Assessing the appropriateness of documents in the workplace
+* Creating materials that are ready to use for job applications
+* Presenting their ideas clearly and effectively through presentations
+
+== Major Projects
+
+* *Business Email Project*: Participants will draft business correspondence focusing on
+clarity and professionalism.
+* *Resume and Cover Letter*: Participants will create and refine resumes and cover letters
+in preparation for job applications.
+* *Technical Document Creation*: In groups, participants will develop a user manual for a
+common task, emphasizing usability.
+
+== Schedule
+
+[cols="2,1", options="header"]
+|===
+| Topic | Duration
+
+| Entry-level Survey
+| 1 day
+
+| Grammar Review
+| 1 week
+
+| Introduction to Professional Writing
+| 1 week
+
+| Business Correspondence and Emails
+| 1 week
+
+| Resumes and Cover Letters
+| 1 week
+
+| Professional Reports
+| 1 week
+
+| Technical Documentation with User Manual Project
+| 1 week
+
+| Presentations
+| 1 week
+
+| Job Applications (two guest speakers)
+| 2 weeks
+
+| Concluding Day (exit survey, reflection on learning and next steps)
+| 1 day
+|===
+
+== Budget
+
+This module is designed to be a practical course with minimum investment in terms of resources.
+Moreover, most of these resources can be reused for a future group of learners.
+
+It is important that participants have access to a basic laptop so they can work on their
+writing skills, projects, and job applications. The module will require some basic books for
+foundational knowledge and access to software. Lastly, printing supplies and stationery items
+will help organize notes and make it easier to study and retain information.
+
+[cols="2,1", options="header"]
+|===
+| Resources | Estimated Cost
+
+| Classroom Materials (books, writing tools)
+| $1,000
+
+| Instruction Cost (facilitator’s fees)
+| $2,500
+
+| Chromebooks (25)
+| $5,000
+
+| Printing Supplies (printers, stationery)
+| $700
+
+| Guest Speaker Fees
+| $500
+
+| *Total*
+| *$9,700*
+|===
+
+== My Qualifications
+
+I hold a PhD in English from the National Institute of Technology Durgapur (India) along with
+a certificate in Professional and Technical Writing from San José State University (USA).
+Over the years, I have gained knowledge about various aspects of writing, editing, analyzing,
+and publishing academic papers.
+
+I have two years of experience teaching college-level students and helping them enhance their
+writing and comprehension skills. In addition to teaching, I have experience in curriculum
+development and designing course material for undergraduate students. I am committed to
+fostering an inclusive learning environment that empowers participants.
+
+== Measure of Success
+
+Measuring success is vital for improving the educational experience, motivating students,
+tracking their progress, and ensuring that learning is relevant and impactful.
+
+For this professional writing module, success will be evaluated through:
+
+* *Participant Feedback*: Surveys assessing participants’ confidence in their writing skills
+and their overall satisfaction with the course. The exit survey will indicate their progress
+since Day 1.
+
+* *Project Assessments*: Evaluation of written projects for each unit based on established
+rubrics, mainly focusing on clarity, coherence, and adherence to the general rules of writing.
+
+* *Skill Improvement*: Pre- and post-module assessments will provide a baseline measurement
+of participants’ writing abilities at the beginning of the module and will be compared with
+their performance at the end.
+
+* *Effectiveness*: Assessment of participant resumes and cover letters for clarity and
+professionalism.
+
+This educational module aims to equip minimum-security prisoners with essential writing skills
+that will enhance their employability and support successful reintegration into society,
+ultimately fostering a more productive post-release life.
