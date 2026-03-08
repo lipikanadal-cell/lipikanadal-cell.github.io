@@ -1,7 +1,7 @@
 ---
 layout: page
 icon: fas fa-file
-order: 5
+order: 2
 is_resume: true
 ---
 
