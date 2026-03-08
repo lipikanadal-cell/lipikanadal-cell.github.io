@@ -215,8 +215,6 @@ exclude:
   - purgecss.js
   - "*.config.js"
   - "package*.json"
-  - "assets/img/favicons/site.webmanifest"
-  - "assets/img/favicons/web-app-manifest*"
 
 jekyll-archives:
   enabled: []

@@ -5,8 +5,6 @@ author: lipika
 ---
 
 = MoonRay Developer Guide
-:toc:
-:toclevels: 2
 
 == MoonRay Overview
 
