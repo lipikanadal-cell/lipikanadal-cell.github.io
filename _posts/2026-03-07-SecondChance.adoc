@@ -4,7 +4,7 @@ date: 2026-03-07 12:00:00 -0500
 author: lipika
 ---
 
-= Second Chance: Proposal for Educational Module: Professional Writing Skills
+= Proposal for Educational Module: Professional Writing Skills
 
 == Problem Statement
 
