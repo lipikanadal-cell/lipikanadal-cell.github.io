@@ -1,0 +1,209 @@
+---
+title: UX Improvement Report
+date: 2026-03-08 12:00:00 -0500
+author: lipika
+---
+
+= UX Improvement Report
+
+== Executive Summary
+
+This report identifies a real-life problem that people face daily and proposes a simple solution. The issue examined is the difficulty of finding vegetarian or vegan dining options when eating out, which can be a challenging process in the United States.
+
+There are several issues regarding menu choices, customization options, cross-contamination, and transparency of ingredients. Based on research involving interviews and secondary data, a few ways are proposed in which this issue can be addressed.
+
+The report has five major sections: overview, problem, solution, challenges, and conclusion.
+
+== 1. Overview
+
+After watching a movie late on a Saturday night, my stomach was making all kinds of weird sounds. Finding something quick to eat at 12:30 at night is a bit of a challenge.
+
+I was walking to my car and spotted the familiar red-and-white sign of In-N-Out Burger. I had seen the fast-food chain many times but never tried it as I am not a big fan of burgers. But on that night, I said to myself, "Why not?"
+
+As I walked inside, the scent of fresh fries welcomed me. When I approached the counter and asked, "What vegetarian options do you have?", the response was disappointing.
+
+"Unfortunately, we don’t have any specific vegetarian menu items, but you can remove the ham from the burger," the cashier said nonchalantly, leaving me stunned.
+
+Although my hopes for a quick meal were dashed, I scanned the menu again, but it was clear: In-N-Out was all about meat burgers. I left the restaurant, my stomach still rumbling.
+
+.In-N-Out menu example
+image::/assets/images/fig1.png[]
+
+== 2. The Problem
+
+Being a vegetarian in the United States often entails several challenges, especially while dining out. While plant-based options are gradually becoming popular, many people still face issues that impact their outdoor dining experience.
+
+The limited menu of certain places, especially fast-food restaurants, can be very off-putting. Despite the rise of vegetarian and plant-based diets, many restaurants offer limited vegetarian choices. Having only salad options or a single vegetarian dish as a token gesture can make dining out a monotonous or frustrating experience for vegetarians and vegans.
+
+Many restaurants do not provide clear information about the ingredients used in their dishes, making it difficult for vegetarians to make informed decisions. Ingredient lists are often vague, and staff may not always have sufficient knowledge of the menu to provide accurate information.
+
+Even in restaurants with vegetarian options, people may find that these dishes are often added as an afterthought. Personally, while ordering there have been times that I have chosen a chicken entrée on the menu and asked the server to remove the meat from it because the restaurant did not have any dedicated vegetarian option.
+
+Vegetarian diners are looking for creative and flavorful options curated with the same passion as meat-based choices.
+
+This curiosity led me to speak with family and friends who were vegetarians about how they navigate such situations.
+
+One friend stated that they rely on Subway veggie sandwiches while on road trips or look for Indian restaurants nearby because they usually offer a few vegetarian options.
+
+Another person, who was vegan, mentioned that restaurant staff sometimes display a lack of knowledge or empathy for dietary restrictions, leading to negative experiences.
+
+Another issue raised was cross-contamination. Even where vegetarian options are available, contamination can remain a concern. For example:
+
+* Fried items such as French fries may be cooked in the same oil as meat products.
+* Vegetarian dishes may sometimes be prepared with meat-based broths.
+
+For instance, Wendy’s offers a baked potato and a few salads. However, there is no dedicated vegetarian burger or entrée, and many items either contain meat or risk cross-contamination.
+
+There is also a lack of clear labeling systems so that vegetarians can confidently identify suitable meals.
+
+According to a study by Statista:
+
+* 6% of the US population is vegetarian
+* 4% is vegan
+
+This represents approximately:
+
+* 20.2 million vegetarians
+* 13.46 million vegans
+
+These examples illustrate the ongoing challenge people face when dining out.
+
+== 3. Solutions
+
+=== 3.1 Creating a Separate Menu Section
+
+One of the easiest ways restaurants can improve menu usability is by creating a separate plant-based section that showcases a variety of vegetarian dishes beyond salads.
+
+Examples include:
+
+* Vegetable stews
+* Veg bowls
+* Vegan tacos
+* Plant-based protein options such as tofu or tempeh
+
+Including a page dedicated to plant-based options would make browsing easier for restaurant guests.
+
+.Example plant-based menu layout
+image::/assets/images/fig2.png[]
+
+=== 3.2 Highlighting Vegetarian and Vegan Items
+
+Another approach is highlighting vegetarian or vegan items using different colors or visual markers that align with the restaurant's theme.
+
+For example, in fast-food restaurants like Burger King where menus appear on screens or single-page layouts, vegan items could be emphasized using:
+
+* Color highlights
+* Icons
+* Symbols such as a bold "V"
+
+This would improve the user experience by making vegetarian items easy to locate.
+
+.Example highlighted vegan menu option
+image::/assets/images/fig3.png[]
+
+=== 3.3 Improved Filtering on Food Apps
+
+Platforms such as Yelp or Uber Eats could improve their search and filter systems.
+
+Currently, users often sort food by cuisine such as:
+
+* Chinese
+* Sushi
+* Pizza
+* Thai
+
+Instead, vegetarian and vegan filters should appear at the top because they represent dietary restrictions rather than cuisine preferences.
+
+This would be a relatively easy and cost-effective improvement that could significantly enhance the consumer experience.
+
+.Example improved filtering interface
+image::/assets/images/fig4.png[]
+
+=== 3.4 Vegetarian and Vegan Substitutes
+
+Restaurants could also offer plant-based substitutes for meat dishes.
+
+These substitutions should be clearly marked on menus so customers can easily identify customization options.
+
+For example:
+
+"Replace beef patty with cauliflower patty for a vegan-friendly option."
+
+=== 3.5 Designing an App to Rate Veg-Friendliness of Restaurants
+
+A proposed solution is designing an application that allows users to rate and review the vegetarian friendliness of restaurants.
+
+Such an app would help plant-based eaters make informed decisions by providing transparency through user-generated reviews.
+
+A prototype called *VeganEats* was designed in Figma to demonstrate the concept.
+
+.– VeganEats prototype interface using Figma
+image::/assets/images/fig5.png[]
+
+==== 3.5.1 Target Audience
+
+The app would target:
+
+* Vegetarians and vegans
+* People with dietary restrictions
+* Health-conscious consumers
+* Non-vegetarians exploring plant-based diets
+
+==== 3.5.2 Core Features
+
+*Restaurant Ratings and Reviews*
+
+* Veg-Friendliness Score (5-star rating system)
+* Categories such as variety, transparency, quality, and customization
+* Detailed user reviews
+
+*Restaurant Profiles*
+
+* Restaurant name, location, hours, and contact information
+* Menu overview highlighting vegetarian and vegan dishes
+* Clear dietary labels (vegan, vegetarian, gluten-free)
+* Cross-contamination policies
+
+*Map and Search Functionality*
+
+* Location-based restaurant search
+* Filters such as:
+** Vegan options
+** Organic
+** Gluten-free
+* Filter by cuisine type (Indian, Mediterranean, etc.)
+
+*User-Generated Content*
+
+* Photos and reviews
+* Dish recommendations
+* Community Q&A for restaurants
+
+*Delivery Integration*
+
+* Integration with delivery platforms such as UberEats or DoorDash
+* Visibility of vegetarian options available for delivery
+
+== 4. Challenges
+
+The biggest challenge would be changing the mindset of stakeholders in the food and beverage industry.
+
+Restaurant owners would need to develop greater sensitivity toward customers with dietary restrictions. This could involve:
+
+* Updating menus
+* Training staff
+* Adjusting sourcing and food preparation processes
+
+Restaurant owners are often concerned with operational costs and profitability. Making significant changes to cater to a smaller customer segment may not always seem financially appealing.
+
+Another concern could be food waste if demand for vegetarian items is inconsistent.
+
+At the same time, consumers must also be more vocal about their experiences. Sharing feedback on social media and review platforms can help raise awareness and encourage businesses to adopt more inclusive practices.
+
+== 5. Conclusion
+
+Researching this issue and speaking with people who face these challenges made me realize that it is a genuine concern.
+
+There are several small but meaningful changes that can be implemented at different levels, ranging from menu design improvements to clearer labeling systems.
+
+Despite the challenges, with an open mindset and the right strategies, restaurant owners can create a more inclusive dining experience and accommodate a wider range of customers.
