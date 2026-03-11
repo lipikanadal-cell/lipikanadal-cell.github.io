@@ -1,0 +1,122 @@
+= Standard Operating Procedure (SOP) for Vehicle Intake
+
+*Department*: Repair Operations
+
+*Applies To*: Service Advisors, Estimators, Intake Technicians
+
+*Objective*: Ensure accurate, safe, and consistent intake of vehicles for collision repair while maintaining quality standards, documentation accuracy, and customer satisfaction.
+
+== Step 1: Customer Check-In
+1.	Confirm customer identity.
+2.	Verify appointment in the system.
+3.	Collect the following information:
+
+* Customer contact information
+* Insurance company and claim number
+* Accident description
+* Date of incident
+4.	Review repair authorization and obtain customer signature.
+ 
+== Step 2: Initial Vehicle Inspection
+1. Conduct a walkaround with the customer when possible.
+
+2. Document the following:
+
+* Exterior damage
+* Existing scratches or dents	
+* Wheel condition
+* Glass damage
+* Interior condition
+* Missing components
+
+[NOTE]
+Document pre-existing damage clearly.
+
+== Step 3: Photo Documentation
+1. Capture clear photos of:
+
+* Front view
+* Rear view
+* Left side
+* Right side
+* VIN plate
+* Odometer
+* Interior dashboard
+* All damaged areas
+* Wheel condition
+
+[NOTE]
+Ensure photos are uploaded to the management system.
+ 
+== Step 4: Vehicle Information Verification
+1. Verify and record:
+
+* VIN
+* License plate
+* Vehicle model and trim
+* Mileage
+* Battery level
+* Key or key card availability
+
+[NOTE]
+Confirm vehicle matches repair order.
+
+== Step 5: Functional Check
+1. Check and document:
+
+* Drivability
+* Warning lights
+* Screen functionality
+* Door operation
+* Camera condition
+* Wheel alignment symptoms
+
+[NOTE]
+If vehicle is not drivable, mark as *Non-Operational*.
+ 
+== Step 6: Personal Belongings
+
+1. Request customer to remove personal items.
+2. If items remain:
+
+* Document them
+* Store securely if necessary
+* Note in intake report
+
+[NOTE]
+Mention that the Collision Center is not responsible for personal belongings left in the vehicle.
+ 
+== Step 7: Insurance Documentation
+1. Confirm:
+
+* Claim number
+* Date of incident
+* Insurance adjuster contact
+
+[NOTE]
+Upload any insurance documents to the repair file.
+ 
+== Step 8: Create Repair Order
+1. Generate a repair order including:
+
+* Customer details
+* Vehicle details
+* Reported damage
+* Initial estimate
+* Intake photos
+* Authorization signatures
+
+[NOTE]
+Provide customer with copy.
+ 
+== Step 9: Customer Communication
+
+1. Before customer leaves, explain:
+
+•	Next steps in repair process
+•	Estimated timeline
+•	Insurance coordination
+•	Communication method (phone / email)
+
+[NOTE]
+Provide contact information for the service center.
