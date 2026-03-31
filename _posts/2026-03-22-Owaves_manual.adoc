@@ -1,3 +1,9 @@
+---
+title: Owaves User Manual: For iOS Devices
+date: 2026-03-31 12:10:00 -0500
+author: lipika
+---
+
 = Owaves User Manual: For iOS Devices
 :author: Lipika Kankaria
 :doctype: book
