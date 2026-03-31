@@ -1,0 +1,126 @@
+---
+title: User Manual for Engine Air Filter Replacement (Prius 2020 Model)
+date: 2026-03-30 12:00:00 -0500
+author: lipika
+---
+
+= User Manual for Engine Air Filter Replacement (Prius 2020 Model)
+
+== 1. Introduction
+This manual provides step-by-step instructions for replacing the engine air filter of a Toyota Prius (2020 Model). This procedure can be completed in approximately 5–10 minutes.
+
+== 2. Specifications
+
+[cols="1,2", options="header"]
+|===
+|Specification |Detail
+
+|Vehicle
+|2020 Toyota Prius (XLE, LE, L Eco, Limited)
+
+|Engine
+|1.8L 4-Cylinder (2ZR-FXE)
+
+|OEM Part Number
+|17801-37021
+
+|Filter Type
+|Dry panel air filter
+
+|Replacement Interval
+|Every 30,000 miles or 36 months
+
+|Compatible Brands
+|Toyota Genuine, Fram CA10176, K&N 33-2304
+|===
+
+== 3. Tools & Materials Required
+
+You will need the following before beginning:
+
+* New replacement air filter (see specifications above)
+* Flathead screwdriver (optional, for stubborn clips)
+* Clean cloth or paper towels
+* Flashlight (if working in dark conditions)
+
+[NOTE]
+====
+No special tools are required. The air filter housing uses quick-release clips that can be opened by hand.
+====
+
+== 4. Safety Precautions
+
+* Always perform this procedure with the engine off.
+* Before beginning, make sure that the hood is cool to touch.
+* Ensure that the vehicle is parked on a flat, stable surface with the parking brake engaged.
+
+== 5. Step-by-Step Replacement Procedure
+
+=== 5.1 Prepare the Vehicle
+
+* Turn off the ignition and remove the key.
+* Open the hood by pulling the hood release lever located under the dashboard on the driver's side.
+* Secure the hood with the hood prop rod.
+* Allow the engine to cool for at least 15 minutes if it was recently running.
+
+=== 5.2 Find the Air Filter Housing
+
+* The air filter housing is a large black rectangular box located at the front on the passenger side (right side when facing the engine from the front).
+* Identify the black-colored corrugated intake hose (shown in Fig. 1) connected to the housing on one side.
+* Locate the four metal fastening clips that secure the top cover of the housing.
+
+.Fig. 1. Air filter housing box
+image::assets/images/airfilter1.png[]
+
+=== 5.3 Open the Air Filter Housing
+
+* Using your fingers (or a flathead screwdriver, if needed), unclip all four fastening clips by pressing them outward (shown in Fig. 2).
+* Carefully lift the top cover of the housing. It does not need to be fully detached. Tilt it back to access the filter.
+
+.Fig. 2. Unclip the housing and lift
+image::assets/images/airfilter2.png[]
+
+[NOTE]
+====
+Observe the orientation of the existing filter before removing it.
+====
+
+=== 5.4 Remove the Old Air Filter
+
+* Lift the old air filter straight up and out of the housing (as shown in Fig. 3).
+* Use a clean cloth to wipe out any dust or debris from inside the housing.
+
+.Fig. 3. Lift the air filter upwards
+image::assets/images/airfilter3.png[]
+
+[WARNING]
+====
+Do not use compressed air near the intake opening for cleaning dust.
+====
+
+=== 5.5 Install the New Air Filter
+
+* Remove the new filter from its packaging and inspect it for damage.
+* Place the new filter into the housing with the flat side facing down and the rubber gasket seated firmly against the housing edges.
+* Ensure all four corners of the filter are flush and no gaps are present around the edges.
+
+=== 5.6 Close and Secure the Housing
+
+* Lower the top cover back onto the housing, aligning it carefully with the base.
+* Press each of the four fastening clips back into place until you hear them click securely.
+
+[NOTE]
+====
+Gently tug on each clip to confirm it is fully engaged.
+====
+
+=== 5.7 Final Checks
+
+* Confirm all clips are secured and no tools or cloths are left in the engine bay.
+* Close and latch the hood securely.
+* Start the vehicle and listen for any unusual sounds from the engine bay.
+
+[NOTE]
+====
+Record the current mileage for future maintenance tracking.
+====
