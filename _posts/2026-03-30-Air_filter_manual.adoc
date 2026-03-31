@@ -2,6 +2,7 @@
 title: User Manual for Engine Air Filter Replacement (Prius 2020 Model)
 date: 2026-03-30 12:00:00 -0500
 author: lipika
+:figure-caption: Fig.
 ---
 
 = User Manual for Engine Air Filter Replacement (Prius 2020 Model)
@@ -71,16 +72,16 @@ The air filter housing uses quick-release clips that can be opened by hand.
 * Identify the black-colored corrugated intake hose (shown in Fig. 1) connected to the housing on one side.
 * Locate the four metal fastening clips that secure the top cover of the housing.
 
-.Fig. 1. Air filter housing box
-image::assets/images/airfilter1.png[]
+.Air filter housing box
+image::/assets/images/airfilter1.png[Air filter housing box, align=center][Air filter housing box]
 
 === 5.3 Open the Air Filter Housing
 
 * Using your fingers (or a flathead screwdriver, if needed), unclip all four fastening clips by pressing them outward (shown in Fig. 2).
 * Carefully lift the top cover of the housing. It does not need to be fully detached. Tilt it back to access the filter.
 
-.Fig. 2. Unclip the housing and lift
-image::assets/images/airfilter2.png[]
+.Unclip the housing and lift
+image::/assets/images/airfilter2.png[Unclip the housing and lift]
 
 [NOTE]
 Observe the orientation of the existing filter before removing it.
@@ -90,8 +91,9 @@ Observe the orientation of the existing filter before removing it.
 * Lift the old air filter straight up and out of the housing (as shown in Fig. 3).
 * Use a clean cloth to wipe out any dust or debris from inside the housing.
 
-.Fig. 3. Lift the air filter upwards
-image::assets/images/airfilter3.png[]
+.Lift the air filter upwards
+image::/assets/images/airfilter3.png[]
+
 
 [WARNING]
 Do not use compressed air near the intake opening for cleaning dust.
