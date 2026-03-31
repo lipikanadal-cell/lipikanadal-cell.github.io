@@ -1,0 +1,160 @@
+= Owaves User Manual: For iOS Devices
+:author: Lipika Kankaria
+:doctype: book
+:toc: preamble
+:toclevels: 3
+:numbered:
+:page-break-before: ^== .*
+:toc-title: Table of Contents
+:pdf-theme: user-manual-theme
+:pdf-themesdir: .
+:title-page:
+:title-page-background-image: image:cover-bg.pdf[]
+:title-logo-image: image:logo.png[pdfwidth=2in,align=center]
+:revnumber: v1.0
+:revdate: March 2026
+:revremark: User Guide
+
+== Overview
+
+Owaves is an application that enables users to organize their daily routine and prioritize wellness goals through an intuitive interface. Unlike traditional grid-based calendars, Owaves uses a circular layout to represent the 24-hour cycle. These layouts, called Day Plans, are designed around the human circadian rhythm and can be customized to fit each user’s unique lifestyle. Users can schedule tasks, referred to as Activities, to promote healthier habits and improve work-life balance. Peer support is built through My Moai groups, where users connect with friends, sync day plans, and stay motivated together through shared accountability.
+
+This user manual provides an overview of Owaves’ features (Chapter 2) and instructions for using the application to support daily activities (Chapter 3). If issues occur while using Owaves, refer to the *FAQs* section(Chapter 4) for common problems and their solutions. For definitions of unfamiliar terms, refer to the *Glossary* (Chapter 5).
+
+
+=== System Requirements
+* iOS: iOS 17.2 or later
+* iPadOS: iPadOS 17.2 or later
+* macOS: macOS 14.2 or later (Apple M1 chip or newer)
+* watchOS: watchOS 4.1 or later
+
+== Features
+
+=== Day Plan   
+Create a template to plan your daily routine (see Fig. 1). Select the days of the week you want it to apply to, then drag and drop activities to build a customized schedule.
+
+[.text-center]
+image::/assets/images/owaves_labeled.png[width=200,align=center]
+
+[.text-center]
+_Fig. 1: An example of a Day Plan in Owaves_
+
+=== Activities    
+Allows you to organize Day Plan into different types of tasks, organized into seven categories: love, move, work, eat, sleep, relax, play, and flow. Drag and drop an activity bubble onto the Day Plan circle to customize it (see Fig. 2). You can edit the category, icon, title, location, duration, notification alerts, display photo, and notes for each activity.
+
+[.text-center]
+image::/assets/images/Owaves2.PNG[width=200,align=center]
+
+[.text-center]
+_Fig. 2: Different activity categories_
+
+=== Apple Watch Integration    
+Connect the application with your Apple Watch to monitor your progress on the go. It helps collect and integrate data from various health and fitness applications. It allows you to store and view all your personal health data such as vital signs, daily exercise, and sleep patterns in one place.
+
+
+
+== Tasks
+=== How to create a day plan using Owaves? 
+1.	Open the application. 
+2.	Locate the leafy plant icon at the top-left corner. 
+3.	Tap on the icon. 
+4.	Select *Day Plans* from the menu. 
+5.	Tap on *New Day Plan*. 
+6.	Tap the pencil icon at the top-right corner. 
+7.	Browse the colored icons to decide which one you would like to use. 
+8.	Press and hold the chosen icon, then drag it onto the clock to place it in your day plan. 
+
+=== How to specify different activities in Owaves? 
+1.	Open the application.
+2.	Locate the pencil icon at the top-right corner.
+3.	Tap the pencil icon.
+4.	Find a colored icon that generalizes your action.
+5.	Press and hold the icon, then drag it onto the clock to place it.
+
+NOTE: If you have used the same icon multiple times, you can tap on a specific icon on the clock to change the title or add alerts.
+
+=== How to connect Owaves to Apple watch? 
+1.	Open the *Watch* application on iPhone.
+2.	Scroll to Available Apps and locate Owaves.
+3.	Tap *Install*.
+4.	Enable *Show App on Apple Watch* to complete the setup.
+
+
+== FAQs
+
+=== My Apple Watch is not syncing with the Owaves app, how do I fix this?
+1.	Tap the profile icon at top-left corner of the screen to open the Navigation menu.
+2.	Select *Settings* from the menu.
+3.	Scroll down to the bottom and tap on *Sync Apple Watch*. 
+Check if the issue is resolved.
+
+If the issue persists, try the following:
+
+* Open and close edit mode on the iPhone by tapping the pencil icon, then the checkmark icon.
+* Change the complications on the Apple Watch, then restore them to their original settings.
+
+=== How do I invite my family and friends?
+1.	Go to the *My Moai* page at the bottom-right of the screen.
+2.	Tap the *Friends* icon in the top-right corner.
+3.	Tap the *Add Friends* icon.
+4.	If prompted, grant Owaves access to contacts.
+5. Tap the *Invite* button to invite friends.
+
+A text message with an invitation link will open.
+
+=== How to fix Owaves crashes on iPhone?
+
+1.	Close the Owaves application, then reopen it on the iPhone.
+
+If the issue persists, try the following:
+
+*	Update the Owaves application to the latest version.
+*	Uninstall and reinstall the Owaves application on the iPhone.
+* Update your iPhone to the latest iOS version.
+
+
+=== How to fix Owaves on iPhone when it is unable to connect to the server/internet?
+
+1.	Open *Settings*.
+2.	Go to General > Reset iPhone > Reset.
+3.	Tap *Reset Network Settings*.
+4.	Enter the device passcode.
+5.	Tap *Reset Network Settings* to confirm.
+
+NOTE: Resetting network settings will remove all saved Wi-Fi networks and passwords.
+
+=== How do I personalize the icon for Day Activities?
+1.	Go to *My Clock* (bottom-center of the screen).
+2.	Tap the pencil icon in the top-right corner.
+3.	Select the colored circle to modify.
+4.	Choose an icon or enter a label.
+
+
+== Glossary
+[cols="1,4", options="header"]
+|===
+|Term |Definition
+
+|Activity
+|Tasks displayed in My Clock, often represented with icons or emojis.
+
+|Circadian Rhythm
+|The body's natural 24-hour cycle. In Owaves, it forms the basis of the Day Plan layout.
+
+|Connection
+|Integration with external devices or applications.
+
+|Day Plan
+|A template for daily scheduling displayed as a circular clock.
+
+|Emoji
+|A small digital icon used to express ideas or actions.
+
+|Moai
+|A support group feature for shared accountability.
+
+|My Clock
+|The circular interface displaying scheduled activities.
+
+|===
+ 

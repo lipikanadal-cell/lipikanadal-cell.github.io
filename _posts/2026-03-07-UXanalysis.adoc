@@ -6,7 +6,7 @@ author: lipika
 
 = Stop Fast Fashion: A Visual Rhetorical Method of Analysis
 
-image::assets/images/fastfashion.png[]
+image::/assets/images/fastfashion.png[]
 
 
 == Artifact Description
